@@ -416,6 +416,7 @@ p {
   color: var(--white-text-color);
 
   line-height: 1.14;
+  font-weight: bold;
   white-space: nowrap;
 }
 .fon {
